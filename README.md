@@ -18,8 +18,9 @@ The model achieves 95% accuracy in the test data set, making its application
 for disease prognosis feasible.  
 
 # SOFTWARE SPECIFICATIONS 
-• OPERATING SYSTEM: Windows 8,8.1,10.
+• OPERATING SYSTEM: Windows 10.
 • PLATFORM : Anaconda.
 • TEXT EDITOR : Spyder.
 • FRAMEWORK : Django.
-• LANGUAGES : Python,HTML,CSS,Bootstrap.
+• LANGUAGES : Python,HTML,CSS,Bootstrap. 
+
