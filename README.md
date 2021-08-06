@@ -1,11 +1,11 @@
 # prediction-of-chronic-kidney-diease-using-machine-learning 
-#Abstraction 
+##Abstraction 
   Chronic kidney disease, also called chronic kidney failure, describes the
 gradual loss of kidney function. Your kidneys filter wastes and excess fluids
 from your blood, which are then excreted in your urine. When chronic kidney
 disease reaches an advanced stage, dangerous levels of fluid, electrolytes and
 wastes can build up in your body. . 
-#EXISTING SYSTEM 
+##EXISTING SYSTEM 
     Existing have used neural network for Colombian Population
 dataset.The result was obtained by training a neuronal network with 5 layers:
 an input layer with 7,492 neurons, corresponding to the variables or
