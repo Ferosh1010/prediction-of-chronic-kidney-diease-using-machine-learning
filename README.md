@@ -24,3 +24,9 @@ for disease prognosis feasible.
 • FRAMEWORK : Django.
 • LANGUAGES : Python,HTML,CSS,Bootstrap. 
 
+# Algorithm Used: 
+1. Logistic Classification
+2.Random Forest Classification
+3.Decision Tree
+4.Support Vector Classification
+
